@@ -1,0 +1,14 @@
+{
+  "operations": [
+    {"type": "delete", "path": "/app"},
+    {"type": "delete", "path": "/lib"},
+    {"type": "delete", "path": "/middleware.ts"},
+    {"type": "delete", "path": "/next.config.js"},
+    {"type": "delete", "path": "/.env.local.example"},
+    {"type": "delete", "path": "/tsconfig.node.json"},
+    {"type": "delete", "path": "/vite.config.ts"},
+    {"type": "delete", "path": "/main.tsx"},
+    {"type": "delete", "path": "/index.html"},
+    {"type": "delete", "path": "/.eslintrc.cjs"}
+  ]
+}
